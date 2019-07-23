@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 and so so.
 git has a mutable index called stage.
 GIT改变的跟踪。
+未add更改
