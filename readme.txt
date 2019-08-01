@@ -4,3 +4,4 @@ and so so.
 git has a mutable index called stage.
 GIT改变的跟踪。
 未add更改
+测试
